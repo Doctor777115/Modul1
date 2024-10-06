@@ -1,0 +1,7 @@
+my_string = input('Введите слово для того, что бы узнать количество букв: ')
+print(len(my_string))
+print('my_string'.upper())
+print('my_string'.lower())
+print('my_string'.replace('my_string', 'mysring'))
+print('my_string'[0])
+print('my_string'[8])
