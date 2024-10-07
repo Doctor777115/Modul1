@@ -12,5 +12,3 @@ print(muttable_list)
 muttable_list.remove('pork')
 print(muttable_list)
 
-immutable_var = (1, 2, 3, 'strint')
-print(immutable_var[0])
